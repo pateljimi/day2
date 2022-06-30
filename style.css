@@ -1,0 +1,46 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    font-size:23px;
+}
+
+.b1 {
+    background-color: #f5f186;
+    background-image: linear-gradient(315deg, #f5f186 0%, #9dfbc8 74%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(51, 13, 13);
+}
+
+#c1 {
+    border-radius: 200px;
+    background-color: rgb(27, 70, 55);
+    color: white;
+    border: 2px solid black;
+    width: 90px;
+    height: 30px;
+    transition: all ease-in 5s;
+    cursor: pointer;
+}
+
+div.forcenter {
+    text-align: center;
+    padding-bottom: 12px;
+    color: rgb(47, 47, 175);
+}
+
+ul.center1 {
+    display: inline-block;
+    text-align: left;
+}
+
+ul.center2 {
+    display: inline-block;
+    text-align: center;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+}
